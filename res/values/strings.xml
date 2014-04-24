@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Small Text Editor</string>
+
+	<string name="warranty">Created by Proalab. Please visit our website <b>www.proalab.com</b></string>
+	<string name="warranty_short">Created by Proalab. Please visit our website <b>www.proalab.com</b></string>
+
+	<!-- Basic Stuff -->
+	<string name="newFileName">Untitled</string>
+	<string name="onSaveMessage">File saved.</string>
+	<string name="onListCleared">List of recent files cleared.</string>
+	<string name="onSuggestionsCleared">List of recent searches cleared.</string>
+
+	<string name="newFile">New File</string>
+	<string name="openFile">Open File</string>
+	
+	<string name="openRecent">Open a Recent File</string>
+
+	<!-- Search stuff -->
+	<string name="searchLabel">SmallTextEdit</string>
+	<string name="searchHint">Search file</string>
+
+	<!-- Dialog Texts -->
+	<string name="defaultFilePath">/sdcard/</string>
+	<string name="accessDenied">Could not save file, Access Denied!</string>
+	<string name="accessDeniedSDcard">Error saving to SD card.\nPossible causes:\n - Phone connected to PC\n - Invalid file name\n - SD card not installed\n - Out of disk space</string>
+	<string name="savingError">Problem saving.\nPossible causes:\n - Invalid file name\n - Out of disk space</string>
+	
+	<string name="shouldSave">File changed. Save it?</string>
+	<string name="shouldSaveIntent">You\'re opening another file. Save this one?</string>
+	<string name="shouldOverwrite">You\'re about to replace an existing file.</string>
+
+	<string name="onSendEmptyMessage">Can not send an empty untitled file.</string>
+	<string name="externalModify">This file has been modified externally. Reload?</string>
+	
+	<!-- Preference stuff 
+		    If you edit this stuff you need to change updateOptions() to make it match -->
+<!--  	<string name="linewrap">true</string>
+	<string name="autocase">true</string>
+	-->
+	<!--  File Browser stuff -->
+	<string name="nofilesindirectory">This directory is empty.</string>
+	<string name="about">About</string>
+	<string name="options">Options</string>
+	<string name="Name_new_folder">New folder name:</string>
+	<string name="File_brouser">File Browser</string>
+	<string name="Filename">Filename:</string>
+	<string name="new_filename">New filename:</string>
+	<string name="location_sdcard">Location: /sdcard/</string>
+	<string name="TextEditor">\nSmallTextEditor\n</string>
+	<string name="del_file">Delete File</string>
+	<string name="rename_file">Rename File</string>
+	<string name="rename">Rename</string>
+	<string name="cancel">Cancel</string>
+	<string name="create_dir">Create Directory</string>
+	<string name="Create">Create</string>
+	<string name="yes">Yes</string>
+	<string name="confirm_del">Confirm deletion of</string>
+	<string name="Error">Error</string>
+	<string name="error_del_file">Unable to delete file.</string>
+	<string name="Continue">Continue</string>
+	<string name="error_del_dir">Unable to delete directory.\n\n- A directory must be empty to be deleted</string>
+	<string name="error_ren_file">Unable to rename file.</string>
+	<string name="no">No</string>
+	<string name="chose_font">Choose a font type</string>
+	<string name="ok">OK</string>
+	<string name="error_create_dir">Unable to create directory</string>
+	<color name="Green">#82c300</color>
+	<color name="White">#ffffff</color>
+	<color name="Black">#000000</color>
+	<string name="save_file">Save File</string>
+	<string name="save">Save</string>
+	<string name="Browser">Browser</string>
+	<string name="open_file">Open File</string>
+	<string name="open">Open</string>
+	<string name="not_found"> not found </string>
+	<string name="menu_new_file">New File</string>
+	<string name="menu_save">Save</string>
+	<string name="menu_save_as">Save as</string>
+	<string name="menu_Open">Open</string>
+	<string name="menu_Email_Text">Email Text</string>
+	<string name="menu_Search_Text">Search Text</string>
+	<string name="menu_Email_as_Attachment">Email as Attachment</string>
+	<string name="menu_Recent">Recent</string>
+	<string name="Send_email_with">Send email with</string>
+	
+<string name="admob_publisher_id">a1519df083ce22f</string>
+</resources>
